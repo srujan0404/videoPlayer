@@ -35,10 +35,10 @@ export default function App() {
                 flexDirection: 'row',
               }}>
               <TouchableOpacity>
-                <Image
+                {/* <Image
                   source={require('C:UsersDharmDocumentsNATIVE APPS\videoPlayerassets\backward.png')}
                   style={{width: 30, height: 30, tintColor: 'white'}}
-                />
+                /> */}
               </TouchableOpacity>
             </View>
           </TouchableOpacity>
